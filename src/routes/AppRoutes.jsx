@@ -19,7 +19,7 @@ const router = createBrowserRouter([
         element: <Register />
     }
 ], {
-    basename: '/01ReactFirebase'
+    basename: '/ReactFirebase'
 })
 
 

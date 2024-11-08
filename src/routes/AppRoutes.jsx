@@ -18,9 +18,7 @@ const router = createBrowserRouter([
         path: '/Register',
         element: <Register />
     }
-], {
-    basename: '/ReactFirebase'
-})
+])
 
 
 const AppRoutes = () => {
